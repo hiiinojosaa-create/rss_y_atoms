@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explora Ciudades</title>
+    <link>https://www.exploraciudades.com</link>
+    <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+    <language>es</language>
+
+    <atom:link href="https://www.exploraciudades.com/viajes.rss" rel="self" type="application/rss+xml" />
+
+    <lastBuildDate>Tue, 20 Jan 2026 10:00:00 +0100</lastBuildDate>
+
+    <item>
+      <title>Ruta gastronómica por Barcelona</title>
+      <link>https://www.exploraciudades.com/ruta-gastronomica-barcelona</link>
+      <guid isPermaLink="false">urn:uuid:0f1c3c5a-2f7b-4cf5-aad8-61a5fb9b4a01</guid>
+      <description><![CDATA[
+        Tapas, mercados y barrios para comer bien sin gastar de más. Paradas recomendadas y consejos para reservar en horas punta.
+      ]]></description>
+      <pubDate>Sun, 18 Jan 2026 12:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Los mejores miradores de París</title>
+      <link>https://www.exploraciudades.com/miradores-paris</link>
+      <guid isPermaLink="false">urn:uuid:0f1c3c5a-2f7b-4cf5-aad8-61a5fb9b4a02</guid>
+      <description><![CDATA[
+        Vistas increíbles sin perder el día en colas: miradores clásicos, rooftops y rincones menos conocidos para fotos brutales.
+      ]]></description>
+      <pubDate>Thu, 15 Jan 2026 18:30:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Cómo moverse en Nueva York en 3 días</title>
+      <link>https://www.exploraciudades.com/moverse-nueva-york-3-dias</link>
+      <guid isPermaLink="false">urn:uuid:0f1c3c5a-2f7b-4cf5-aad8-61a5fb9b4a03</guid>
+      <description><![CDATA[
+        Metro, buses y caminatas inteligentes: qué tarjeta conviene, cómo planificar trayectos y trucos para ahorrar tiempo.
+      ]]></description>
+      <pubDate>Mon, 12 Jan 2026 09:15:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Museos imperdibles de Tokio</title>
+      <link>https://www.exploraciudades.com/museos-imperdibles-tokio</link>
+      <guid isPermaLink="false">urn:uuid:0f1c3c5a-2f7b-4cf5-aad8-61a5fb9b4a04</guid>
+      <description><![CDATA[
+        De arte contemporáneo a historia y tecnología: museos clave, cómo comprar entradas y qué días conviene ir.
+      ]]></description>
+      <pubDate>Fri, 09 Jan 2026 16:45:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
